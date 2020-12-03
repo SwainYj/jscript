@@ -1,0 +1,4 @@
+[2020-12-03 11:03:30] INFO swain.db.ConnectionPool.init(ConnectionPool.java:19) : init connection pool ====1606964610067
+[2020-12-03 11:03:32] INFO swain.db.ConnectionPool.init(ConnectionPool.java:29) : init connection pool end ===2s
+[2020-12-03 11:03:34] ERROR swain.controller.BackWord.fetch(BackWord.java:62) : 
+[2020-12-03 11:03:34] INFO swain.Main.main(Main.java:18) : move updateCert end :2s
